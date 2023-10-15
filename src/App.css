@@ -1,0 +1,30 @@
+*{
+  padding:0; 
+  margin:0;
+  box-sizing: border-box;
+}
+
+html,body{
+
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#txtSearch{
+
+  height:30px; 
+  width:220px;
+  font-size:16px;
+  margin-top:15px;
+}
+
+
+#btnSubmit{
+
+  height:30px;
+  width:80px;
+  margin-top:15px;
+  font-size:15px;
+  margin-left:5px;
+  cursor:pointer;
+}
